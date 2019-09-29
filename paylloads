@@ -1,0 +1,2 @@
+1. example.com/login?next=javascript:alert("1")
+2. example.com/login?next=<script>alert(1)</script>
